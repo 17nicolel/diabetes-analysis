@@ -1,6 +1,3 @@
-# YunXuan Liao
-# ITP 449 Fall 2020 # HW8
-# Q1
 
 #1. Create a DataFrame “diabetes_knn” to store the diabetes data and set option to display all columns
 # without any restrictions on the number of columns displayed.
